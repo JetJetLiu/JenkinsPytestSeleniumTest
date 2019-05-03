@@ -1,0 +1,41 @@
+{
+  "8622c73c562167d2ac908e3a7a438ee1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d7810c37ae447915",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556860613214,
+        "stop" : 1556860616890,
+        "duration" : 3676
+      }
+    } ]
+  },
+  "ec97397f773e4c59348eb0ba842c265a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "60ce16060869aca5",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '百度一下，你就知道' == '百度一下，你知道'\n  - 百度一下，你就知道\n  ?       -\n  + 百度一下，你知道",
+      "time" : {
+        "start" : 1556860613510,
+        "stop" : 1556860617195,
+        "duration" : 3685
+      }
+    } ]
+  }
+}

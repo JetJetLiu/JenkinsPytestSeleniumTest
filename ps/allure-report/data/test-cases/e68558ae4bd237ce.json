@@ -1,0 +1,472 @@
+{
+  "uid" : "e68558ae4bd237ce",
+  "name" : "test_baidu",
+  "fullName" : "test_pytest_se#test_baidu",
+  "historyId" : "a84a6e5c8f3d0a88d98c42790094f71e",
+  "time" : {
+    "start" : 1556879533751,
+    "stop" : 1556879534869,
+    "duration" : 1118
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1556879530162,
+      "stop" : 1556879533748,
+      "duration" : 3586
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "tmpdir",
+    "time" : {
+      "start" : 1556879530161,
+      "stop" : 1556879530161,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "base_url",
+    "time" : {
+      "start" : 1556879528497,
+      "stop" : 1556879528497,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "firefox_profile",
+    "time" : {
+      "start" : 1556879528500,
+      "stop" : 1556879528500,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "firefox_path",
+    "time" : {
+      "start" : 1556879528499,
+      "stop" : 1556879528499,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "driver_kwargs",
+    "time" : {
+      "start" : 1556879530162,
+      "stop" : 1556879530162,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "session_capabilities",
+    "time" : {
+      "start" : 1556879528499,
+      "stop" : 1556879528499,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "driver_path",
+    "time" : {
+      "start" : 1556879530162,
+      "stop" : 1556879530162,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "selenium",
+    "time" : {
+      "start" : 1556879533749,
+      "stop" : 1556879533749,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "driver_class",
+    "time" : {
+      "start" : 1556879528498,
+      "stop" : 1556879528498,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "chrome_options",
+    "time" : {
+      "start" : 1556879528500,
+      "stop" : 1556879528500,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "sensitive_url",
+    "time" : {
+      "start" : 1556879528498,
+      "stop" : 1556879528498,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "driver_log",
+    "time" : {
+      "start" : 1556879530162,
+      "stop" : 1556879530162,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "tmp_path_factory",
+    "time" : {
+      "start" : 1556879528499,
+      "stop" : 1556879528499,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "capabilities",
+    "time" : {
+      "start" : 1556879528501,
+      "stop" : 1556879528501,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_skip_sensitive",
+    "time" : {
+      "start" : 1556879528500,
+      "stop" : 1556879528500,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "tmp_path",
+    "time" : {
+      "start" : 1556879528501,
+      "stop" : 1556879530161,
+      "duration" : 1660
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "driver_args",
+    "time" : {
+      "start" : 1556879528501,
+      "stop" : 1556879528501,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "pytestconfig",
+    "time" : {
+      "start" : 1556879528498,
+      "stop" : 1556879528499,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_verify_url",
+    "time" : {
+      "start" : 1556879528497,
+      "stop" : 1556879528498,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "firefox_options",
+    "time" : {
+      "start" : 1556879528501,
+      "stop" : 1556879528501,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8f7cfbec6ae2ea7c",
+      "name" : "log",
+      "source" : "8f7cfbec6ae2ea7c.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "e0dcfd443eee6f3c",
+      "name" : "stdout",
+      "source" : "e0dcfd443eee6f3c.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "c79d101e2d5bf0f5",
+      "name" : "stderr",
+      "source" : "c79d101e2d5bf0f5.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1556879534875,
+      "stop" : 1556879534960,
+      "duration" : 85
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "selenium::0",
+    "time" : {
+      "start" : 1556879534871,
+      "stop" : 1556879534871,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "test_module_01"
+  }, {
+    "name" : "suite",
+    "value" : "test_pytest_se"
+  }, {
+    "name" : "host",
+    "value" : "PC-20181130ONTJ"
+  }, {
+    "name" : "thread",
+    "value" : "7372-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest_se"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "fd31cd27738c56ec",
+        "reportUrl" : "http://192.168.0.105:8080/job/Pytest-Selenium_Grid_Allure_Jenkins_Email/5/allure/#testresult/fd31cd27738c56ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556879234903,
+          "stop" : 1556879239947,
+          "duration" : 5044
+        }
+      }, {
+        "uid" : "5c05e8d9f742b583",
+        "reportUrl" : "http://192.168.0.105:8080/job/Pytest-Selenium_Grid_Allure_Jenkins_Email/4/allure/#testresult/5c05e8d9f742b583",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556878936844,
+          "stop" : 1556878939213,
+          "duration" : 2369
+        }
+      }, {
+        "uid" : "970bfa86a050dc63",
+        "reportUrl" : "http://192.168.0.105:8080/job/Pytest-Selenium_Grid_Allure_Jenkins_Email/3/allure/#testresult/970bfa86a050dc63",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556878645558,
+          "stop" : 1556878652316,
+          "duration" : 6758
+        }
+      }, {
+        "uid" : "dd8baf69870e98d",
+        "reportUrl" : "http://192.168.0.105:8080/job/Pytest-Selenium_Grid_Allure_Jenkins_Email/2/allure/#testresult/dd8baf69870e98d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556878572514,
+          "stop" : 1556878573857,
+          "duration" : 1343
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e68558ae4bd237ce.json",
+  "parameterValues" : [ ]
+}

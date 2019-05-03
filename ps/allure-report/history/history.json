@@ -1,0 +1,78 @@
+{
+  "3d3561d513916b960b87d422d1b09081" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4a3db36c0742b74d",
+      "reportUrl" : "http://192.168.0.105:8080/job/Pytest-Selenium_Grid_Allure_Jenkins_Email/1/allure/#testresult/4a3db36c0742b74d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556878394959,
+        "stop" : 1556878401072,
+        "duration" : 6113
+      }
+    } ]
+  },
+  "a84a6e5c8f3d0a88d98c42790094f71e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "e68558ae4bd237ce",
+      "reportUrl" : "http://192.168.0.105:8080/job/Pytest-Selenium_Grid_Allure_Jenkins_Email/6/allure/#testresult/e68558ae4bd237ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556879533751,
+        "stop" : 1556879534869,
+        "duration" : 1118
+      }
+    }, {
+      "uid" : "fd31cd27738c56ec",
+      "reportUrl" : "http://192.168.0.105:8080/job/Pytest-Selenium_Grid_Allure_Jenkins_Email/5/allure/#testresult/fd31cd27738c56ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556879234903,
+        "stop" : 1556879239947,
+        "duration" : 5044
+      }
+    }, {
+      "uid" : "5c05e8d9f742b583",
+      "reportUrl" : "http://192.168.0.105:8080/job/Pytest-Selenium_Grid_Allure_Jenkins_Email/4/allure/#testresult/5c05e8d9f742b583",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556878936844,
+        "stop" : 1556878939213,
+        "duration" : 2369
+      }
+    }, {
+      "uid" : "970bfa86a050dc63",
+      "reportUrl" : "http://192.168.0.105:8080/job/Pytest-Selenium_Grid_Allure_Jenkins_Email/3/allure/#testresult/970bfa86a050dc63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556878645558,
+        "stop" : 1556878652316,
+        "duration" : 6758
+      }
+    }, {
+      "uid" : "dd8baf69870e98d",
+      "reportUrl" : "http://192.168.0.105:8080/job/Pytest-Selenium_Grid_Allure_Jenkins_Email/2/allure/#testresult/dd8baf69870e98d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556878572514,
+        "stop" : 1556878573857,
+        "duration" : 1343
+      }
+    } ]
+  }
+}

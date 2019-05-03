@@ -1,0 +1,36 @@
+[ {
+  "buildOrder" : 5,
+  "reportUrl" : "http://192.168.0.105:8080/job/Pytest-Selenium_Grid_Allure_Jenkins_Email/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 5044
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://192.168.0.105:8080/job/Pytest-Selenium_Grid_Allure_Jenkins_Email/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 2369
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "http://192.168.0.105:8080/job/Pytest-Selenium_Grid_Allure_Jenkins_Email/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 6758
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "http://192.168.0.105:8080/job/Pytest-Selenium_Grid_Allure_Jenkins_Email/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 1343
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "http://192.168.0.105:8080/job/Pytest-Selenium_Grid_Allure_Jenkins_Email/1/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 6113
+  }
+} ]

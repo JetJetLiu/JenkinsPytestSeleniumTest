@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_pytest_se",
+    "children" : [ {
+      "name" : "test_baidu",
+      "uid" : "e68558ae4bd237ce",
+      "parentUid" : "886704ddb4e39f215b7648cb7e249ef6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556879533751,
+        "stop" : 1556879534869,
+        "duration" : 1118
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "886704ddb4e39f215b7648cb7e249ef6"
+  } ]
+}

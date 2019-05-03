@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PC-20181130ONTJ",
+    "children" : [ {
+      "name" : "1716-MainThread",
+      "children" : [ {
+        "name" : "test_case_01",
+        "uid" : "f5374310481d1e0b",
+        "parentUid" : "3da225538f7bd3f58a6c8b77cae91707",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556870740548,
+          "stop" : 1556870740548,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_case_02",
+        "uid" : "1de29d688964d21",
+        "parentUid" : "3da225538f7bd3f58a6c8b77cae91707",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556870740560,
+          "stop" : 1556870740561,
+          "duration" : 1
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3da225538f7bd3f58a6c8b77cae91707"
+    } ],
+    "uid" : "cb3851581d1833282af0a57683980bfa"
+  } ]
+}

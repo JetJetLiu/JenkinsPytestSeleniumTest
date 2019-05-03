@@ -1,0 +1,43 @@
+{
+  "3981ec43caa1e8c05fd240f1824c2cc6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f5374310481d1e0b",
+      "reportUrl" : "http://localhost:8080/job/AllureTest/8/allure/#testresult/f5374310481d1e0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556870740548,
+        "stop" : 1556870740548,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2510eae8cbc6568e716855a47fd0be7a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1de29d688964d21",
+      "reportUrl" : "http://localhost:8080/job/AllureTest/8/allure/#testresult/1de29d688964d21",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0 == 1",
+      "time" : {
+        "start" : 1556870740560,
+        "stop" : 1556870740561,
+        "duration" : 1
+      }
+    } ]
+  }
+}

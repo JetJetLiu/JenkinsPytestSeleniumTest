@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PC-20181130ONTJ",
+    "children" : [ {
+      "name" : "7372-MainThread",
+      "children" : [ {
+        "name" : "test_baidu",
+        "uid" : "e68558ae4bd237ce",
+        "parentUid" : "e9a9ee7ba66551cfd085337a27568721",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556879533751,
+          "stop" : 1556879534869,
+          "duration" : 1118
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e9a9ee7ba66551cfd085337a27568721"
+    } ],
+    "uid" : "cb3851581d1833282af0a57683980bfa"
+  } ]
+}
