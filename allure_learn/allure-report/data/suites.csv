@@ -1,7 +1,0 @@
-"Status","Name","Duration in ms","Description"
-"passed","test_1#test_case_01","0","
-    用例描述：Test case 01
-    "
-"failed","test_1#test_case_02","1","
-    用例描述：Test case 02
-    "
